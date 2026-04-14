@@ -1,2 +1,2 @@
-[*.cs]
+[*.cs]git commit -m "Added push screenshot"
 csharp_new_line_before_open_brace = none
